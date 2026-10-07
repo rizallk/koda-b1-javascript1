@@ -4,7 +4,7 @@ const phi = 3.14;
 const isLuas = false;
 
 if (isLuas) {
-  const luas = phi * r * 2;
+  const luas = phi * r * r;
   console.log(`Hasil luas lingkaran = ${luas}`);
 } else {
   const keliling = 2 * phi * r;
