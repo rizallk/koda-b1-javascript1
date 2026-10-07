@@ -46,5 +46,5 @@ if (
     console.log('Pilihan tidak ditemukan');
   }
 } else {
-  console.log('Jari-jari harus number');
+  console.log('Jari-jari atau phi harus number, dan pilihan harus string');
 }
